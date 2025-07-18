@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Chitrabhanu Srivastava. 
-A passionate B.Tech CSE Student currently in final year in Amity University Punjab. I have a keen interest in Machine Learning, Artificial Intelligence, Data Analysis, and Web Development. 
-For extra curricular, I am a part time Photographer as well.
+I'm a passionate developer and AI enthusiast with a strong foundation in full-stack development, machine learning, and software architecture. My focus is on building scalable, real-world applications that create impact. I enjoy collaborating on open-source projects and constantly exploring new technologies.
 
 # 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,3 +23,8 @@ For extra curricular, I am a part time Photographer as well.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhanu2023)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhannuu2031@gmial.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/bhannuu2031/)
+
+## 🏏 Extracurricular Activities
+🏆 Professional Cricket Player – Represented at competitive and inter-state levels
+🎤 Technical Speaker & Hackathon Finalist
+🛠️ Open-source Contributor and Community Member
