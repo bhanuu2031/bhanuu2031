@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="left">Hi there👋</h1>
-<h3 align="left">💡 I’m Bhanu Srivastava, a passionate AI Engineer & Full-Stack Developer from India exploring the cutting edge of Generative AI, Agentic AI, and Deep Learning. With a strong foundation in Machine Learning, Web Development, and Cloud, I love building intelligent applications that blend creativity with impact.</h3>
+<h3 align="left">💡 I’m Chitrabhanu Srivastava, a passionate AI Engineer & Full-Stack Developer from India exploring the cutting edge of Generative AI, Agentic AI, and Deep Learning. With a strong foundation in Machine Learning, Web Development, and Cloud, I love building intelligent applications that blend creativity with impact.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bhanuu2031&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuu2031" />  </p>
