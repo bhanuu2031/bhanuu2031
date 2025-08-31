@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=bhanuu2031&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuu2031" />  </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/bhanuu2031" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu2023" height="30" width="40" />
   </a>
