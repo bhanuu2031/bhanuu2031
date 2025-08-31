@@ -19,8 +19,10 @@
   <a href="https://www.leetcode.com/bhannuu2031" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhanuu2031" height="30" width="40" />
   </a>
-  <a href="mailto:bhannuu2031@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bhannuu2031@gmail.com" height="30" width="40" />
+<a href="mailto:bhanuu2031@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bhanuu2031@gmail.com" height="30" width="40" />
+</a>
+
   </a>
 </p>
 
