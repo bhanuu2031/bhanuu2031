@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="header.gif" alt="Bhanu Banner" width="100%" />
+</div>
+
 <h1 align="left">Hi there👋</h1>
 <h3 align="left">💡 I’m Bhanu Srivastava, a passionate AI Engineer & Full-Stack Developer from India exploring the cutting edge of Generative AI, Agentic AI, and Deep Learning. With a strong foundation in Machine Learning, Web Development, and Cloud, I love building intelligent applications that blend creativity with impact.</h3>
 
