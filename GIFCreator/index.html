@@ -1,125 +1,131 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- 
-
-    Particles thanks to ParticleJS - https://github.com/VincentGarreau/particles.js/
-    Typewriter thanks to Typewriter.js - https://github.com/tameemsafi/typewriterjs
-
- -->
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
-    <style>
-        body {
-            padding: 0;
-            margin: 0;
-            background-color: #0d1116;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bhanu Banner</title>
 
-        #particles-js {
-            width: 800px;
-            height: 387px;
-            background-color: #0d1116;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            border: 1px solid purple;
-            opacity: 0.9;
-        }
+  <!-- Typewriter.js -->
+  <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+  <!-- Particles.js -->
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 
-        #typewriter {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -60px);
-            font-size: 3rem;
-            line-height: 3rem;
-            color: #fff;
-            text-align: center;
-            font-family: 'Roboto', sans-serif;
-            font-weight: 500;
-            clip: auto;
-            z-index: 1;
-            background: -webkit-linear-gradient(#5115b9, #e010e3);
-            background-clip: text;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Fira+Code:wght@500&display=swap" rel="stylesheet">
 
-        #typewriter2 {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, 20px);
-            font-size: 2rem;
-            line-height: 3rem;
-            color: #fff;
-            text-align: center;
-            font-family: 'Roboto', sans-serif;
-            font-weight: 500;
-            z-index: 1;
-            background: -webkit-linear-gradient(#5115b9, #fa00ff);
-            background-clip: text;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-    </style>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0d1116;
+      overflow: hidden;
+    }
+
+    #particles-js {
+      width: 100%;
+      height: 100vh;
+      background-color: #0d1116;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 0;
+    }
+
+    /* Neon Border Container */
+    .banner-box {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 80%;
+      max-width: 900px;
+      height: 300px;
+      border: 2px solid #ff00ff;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(255, 0, 255, 0.7),
+                  0 0 25px rgba(0, 255, 255, 0.5);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      z-index: 1;
+    }
+
+#typewriter,
+#typewriter2 {
+  text-align: center;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(90deg, #ff00ff, #00ffff);
+}
+
+#typewriter {
+  font-size: 2.8rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  margin-bottom: 20px;
+  /* removed text-shadow */
+}
+
+#typewriter2 {
+  font-size: 1.8rem;
+  font-family: 'Fira Code', monospace;
+  font-weight: 500;
+  /* removed text-shadow */
+}
+
+#typewriter, #typewriter2 {
+  font-family: 'Poppins', sans-serif, 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+}
+  </style>
 </head>
 
 <body>
+  <div id="particles-js"></div>
+
+  <!-- Banner with neon border -->
+  <div class="banner-box">
     <div id="typewriter"></div>
     <div id="typewriter2"></div>
-    <div id="particles-js"></div>
-    <script src="particles.js"></script>
-    <script>
-        particlesJS.load('particles-js', 'assets/particles.json', function () {
-            console.log('callback - particles-js config loaded');
-        });
+  </div>
+
+  <script>
+    // Particles config
+    particlesJS("particles-js", {
+      "particles": {
+        "number": { "value": 70 },
+        "color": { "value": ["#ff00ff", "#00ffff", "#ffcc00"] },
+        "shape": { "type": "circle" },
+        "opacity": { "value": 0.6 },
+        "size": { "value": 3, "random": true },
+        "line_linked": { "enable": true, "distance": 130, "color": "#ffffff", "opacity": 0.25, "width": 1 },
+        "move": { "enable": true, "speed": 2 }
+      },
+      "interactivity": {
+        "events": { "onhover": { "enable": true, "mode": "grab" } }
+      },
+      "retina_detect": true
+    });
 
         new Typewriter('#typewriter', {
             delay: 20,
-        }).typeString('Hey there, I\'m Cyris 👋')
+        }).typeString('Hey there, I am Bhanu👋')
             .pauseFor(3000)
             .deleteAll(10)
-            .typeString('I\'m a software developer 👨‍💻')
+            .typeString('Cricketer by morning🏏')
             .pauseFor(3000)
             .deleteAll(10)
-            .typeString('I\'m a maker 🏗')
+            .typeString('Engineer and Developer by Day💻')
             .pauseFor(3000)
             .deleteAll(10)
-            .typeString('I\'m an infosec enthusiast 🔒')
+            .typeString('Speaker by evening🎤')
             .pauseFor(3000)
             .deleteAll(10)
-            .typeString('Check out my work 👇')
+            .typeString('Singer by night🎭')
             .pauseFor(4000)
             .start();
-
-        new Typewriter('#typewriter2', {
-            delay: 20,
-        }).pauseFor(1000)
-            .typeString('Nice to meet you.')
-            .pauseFor(2000)
-            .deleteAll(10)
-            .pauseFor(1000)
-            .typeString('Javascript, NodeJS, React, Express.')
-            .pauseFor(2000)
-            .deleteAll(10)
-            .typeString('RaspberryPi, Arduino, ESP8266, ESP32.')
-            .pauseFor(2000)
-            .deleteAll(10)
-            .typeString('Learning to protect myself and others.')
-            .pauseFor(3000)
-            .deleteAll(10)
-            .pauseFor(200)
-            .typeString('Follow me on twitter @sudo_overflow.')
-            .pauseFor(4000)
-            .start();
-    </script>
+  </script>
 </body>
 
 </html>
