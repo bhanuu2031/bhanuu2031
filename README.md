@@ -20,8 +20,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhanuu2031" height="30" width="40" />
   </a>
 <a href="mailto:bhanuu2031@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bhanuu2031@gmail.com" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
 </a>
+
 
   </a>
 </p>
