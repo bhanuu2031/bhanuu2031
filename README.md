@@ -6,7 +6,8 @@
 <h3 align="left">💡 I’m Chitrabhanu Srivastava, a passionate AI Engineer & Full-Stack Developer from India exploring the cutting edge of Generative AI, Agentic AI, and Deep Learning. With a strong foundation in Machine Learning, Web Development and Cloud Computing, I love building intelligent applications that blend creativity with impact.</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bhanuu2031&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuu2031" />  </p>
+  <img src="https://komarev.com/ghpvc/?username=bhanuu2031&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuu2031" />  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,11 +20,8 @@
   <a href="https://www.leetcode.com/bhannuu2031" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhanuu2031" height="30" width="40" />
   </a>
-<a href="mailto:bhanuu2031@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
-</a>
-
-
+  <a href="mailto:bhanuu2031@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
@@ -51,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -66,7 +64,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
@@ -82,4 +80,3 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanuu2031&show_icons=true&locale=en" alt="bhanuu2031" />
 </p>
-  
