@@ -2,65 +2,84 @@
   <img src="header.gif" alt="Bhanu Banner" width="100%" />
 </div>
 
-<h1 align="left">Hi there 👋</h1>
-<h3 align="left">
-💡 I’m Chitrabhanu Srivastava, a passionate AI Engineer & Full-Stack Developer from India exploring the cutting edge of Generative AI, Agentic AI, and Deep Learning. With a strong foundation in Machine Learning, Web Development and Cloud Computing, I love building intelligent applications that blend creativity with impact.
-</h3>
+<h1 align="left">Hi there👋</h1>
+<h3 align="left">💡 I’m Chitrabhanu Srivastava, a passionate AI Engineer & Full-Stack Developer from India exploring the cutting edge of Generative AI, Agentic AI, and Deep Learning. With a strong foundation in Machine Learning, Web Development and Cloud Computing, I love building intelligent applications that blend creativity with impact.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhanuu2031&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuu2031"/>
-</p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bhanuu2031&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuu2031" />  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-  <a href="https://linkedin.com/in/bhanuu2031" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+  <a href="https://linkedin.com/in/bhanuu2031" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu2023" height="30" width="40" />
   </a>
-
-  <a href="https://www.instagram.com/bhanuuu.u" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35"/>
+  <a href="https://www.instagram.com/bhanuuu.u" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhanuu2031" height="30" width="40" />
   </a>
-
-  <a href="https://leetcode.com/bhannuu2031" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35"/>
+  <a href="https://www.leetcode.com/bhannuu2031" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhanuu2031" height="30" width="40" />
   </a>
+<a href="mailto:bhanuu2031@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
+</a>
 
-  <a href="mailto:bhanuu2031@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="35"/>
+
   </a>
-
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/CUDA_logo.svg" width="45"/>
-
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/CUDA_logo.svg" alt="cuda" width="40" height="40"/> 
+  </a> 
 </p>
-
----
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanuu2031&show_icons=true&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanuu2031&show_icons=true&locale=en&layout=compact" alt="bhanuu2031" />
 </p>
-
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanuu2031&show_icons=true" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanuu2031&show_icons=true&locale=en" alt="bhanuu2031" />
 </p>
+  
