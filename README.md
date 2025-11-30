@@ -76,7 +76,4 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanuu2031&show_icons=true&locale=en&layout=compact" alt="bhanuu2031" />
 </p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanuu2031&show_icons=true&locale=en" alt="bhanuu2031" />
-</p>
   
