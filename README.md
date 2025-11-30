@@ -71,9 +71,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/CUDA_logo.svg" alt="cuda" width="40" height="40"/> 
-  </a> 
 </p>
 
 <p>
